@@ -94,7 +94,7 @@ footer {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #EEE8AA;
+  background: none repeat scroll 0 0 #FFFFFF;
 }
 
 .sk-circle {
@@ -449,7 +449,7 @@ footer a:hover {
 
 /* Back top */
 .go-top {
-  background-color: #EEE8AA;
+  background-color: #FFFFFF;
   bottom: 2em;
   right: 2em;
   color: #111112;
