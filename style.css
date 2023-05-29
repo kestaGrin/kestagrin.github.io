@@ -57,7 +57,7 @@ strong {
 #about,
 #feature,
 #contact {
-  background: #EEE8AA;
+  background: white;
 }
 
 #about,
@@ -279,7 +279,7 @@ footer {
 
 /* feature section */
 #feature {
-  background: #f1c11a;
+  background: #EEE8AA;
 }
 
 #feature .icon {
