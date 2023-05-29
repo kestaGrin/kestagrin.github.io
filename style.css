@@ -50,14 +50,14 @@ p {
 }
 
 strong {
-  color: #f1c11a;
+  color: #EEE8AA;
   font-weight: 700;
 }
 
 #about,
 #feature,
 #contact {
-  background: #ffffff;
+  background: #EEE8AA;
 }
 
 #about,
@@ -94,7 +94,7 @@ footer {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #ffffff;
+  background: none repeat scroll 0 0 #EEE8AA;
 }
 
 .sk-circle {
